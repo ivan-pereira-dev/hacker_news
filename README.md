@@ -1,10 +1,12 @@
 # hacker_news
 Hackers news app using Combine and Swift UI in iOs
 
-These are resources to learn Combine:
+Resources to learn Combine:
 
 [Combine: Asynchronous Programming with Swift](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift)
+
 [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/)
+
 [Will combine kill RxSwift](https://medium.com/@M0rtyMerr/will-combine-kill-rxswift-64780a150d89)
 
 
